@@ -10,6 +10,7 @@ namespace mk
     {
         static void Main(string[] args)
         {
+            Console.WriteLine ("Help!");
         }
     }
 }
