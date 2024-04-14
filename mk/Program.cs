@@ -10,6 +10,8 @@ namespace mk
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Всем привет!");
+            Console.WriteLine("Хорошего дня");
         }
     }
 }
